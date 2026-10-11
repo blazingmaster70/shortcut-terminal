@@ -114,7 +114,7 @@ Shortcut Terminal aims to make common computer tasks simple and accessible throu
 
 ## License
 
-No license has been specified for this project. Add a license before redistributing the code if you want to define permissions for reuse and modification.
+No license.
 
 ---
 
